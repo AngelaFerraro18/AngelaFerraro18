@@ -9,6 +9,8 @@
 I'm a curious and motivated developer who loves learning new technologies and bringing ideas to life through code.  
 For me, programming feels like solving a puzzle — with patience and creativity, every piece eventually fits perfectly!  
 
+💖 I truly love frontend development — it’s where logic meets creativity, and that balance makes me feel inspired every day.
+
 🎮 I love **video games**, **art**, **nature**, and **animals**.  
 ✨ I'm proudly a **nerd at heart** — a huge fan of *The Lord of the Rings* 🧙‍♀️, *Star Wars* 🌌, and *Wicked* 💚.  
 😄 I enjoy **laughing**, making others smile, and sharing good vibes wherever I go.  
@@ -18,12 +20,19 @@ For me, programming feels like solving a puzzle — with patience and creativity
 ---
 
 ## 🧩 Tech Stack
-| Frontend | Tools | Other |
-|-----------|--------|--------|
-| HTML | Git & GitHub | TypeScript |
-| CSS / Sass | Figma | Node.js |
-| JavaScript | Visual Studio Code | Express |
-| React | Bootstrap | REST APIs |
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
