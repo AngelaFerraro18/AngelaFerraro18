@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Angela Ferraro!
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVkdzYybWluY3ZidndiMm9hNThpNHVpYWZvM3d0eTAxcWR0ZWZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnp5B63gSse2c/giphy.gif" width="250"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVkdzYybWluY3ZidndiMm9hNThpNHVpYWZvM3d0eTAxcWR0ZWZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnp5B63gSse2c/giphy.gif" width="350"/>
 </p>
 
 🎨 **Frontend Developer** with a background in **Graphic Design**  
