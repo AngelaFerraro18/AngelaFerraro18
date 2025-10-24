@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Angela Ferraro!
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVkdzYybWluY3ZidndiMm9hNThpNHVpYWZvM3d0eTAxcWR0ZWZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnp5B63gSse2c/giphy.gif" width="250"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVkdzYybWluY3ZidndiMm9hNThpNHVpYWZvM3d0eTAxcWR0ZWZoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cnp5B63gSse2c/giphy.gif" width="250" margin="0 auto"/>
 
 🎨 **Frontend Developer** with a background in **Graphic Design**  
 💻 Passionate about creating elegant, accessible, and engaging web experiences  
